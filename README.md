@@ -1,2 +1,5 @@
 # creo-ai-connection
-Connect AI agents to Creo through CREOSON, MCP, or a native TOOLKIT bridge.
+
+A standalone Creo skill extracted from [Creo Plugin Skills](https://github.com/zewei2580-tech/creo-plugin-skills).
+
+See [SKILL.md](SKILL.md) for the workflow and its requirements. Supporting references, scripts, and assets are included where applicable.
